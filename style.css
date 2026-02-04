@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+   
+}
+
+div.post {
+    background-color: white;
+    margin: 100px;
+    
+}
+
+img.img-landscape{
+    object-fit: contain;
+
+}
+div.post-header{
+    font-size: 10px;
+    display: flex;
+}
+
+p.nameaccount{
+    margin: auto;
+}
+
